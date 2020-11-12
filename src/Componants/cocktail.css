@@ -1,0 +1,7 @@
+.cocktail:hover{
+   background-color:skyblue;
+   transform: scale(1.03);
+   transition: ease-in-out 0.2s;
+   color:white;
+   border-bottom-right-radius: 40px;
+}

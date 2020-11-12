@@ -1,0 +1,8 @@
+.navbar{
+      position: sticky;
+      top: 0px;
+      background-color: aliceblue;
+      z-index: 1;
+      flex: 1;
+      
+}
